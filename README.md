@@ -1,4 +1,5 @@
 # TestCase-Sample 1:
+
 Check if the login works when a user enters the correct credentials.
 
 ## Steps to reproduce:
@@ -9,11 +10,11 @@ Check if the login works when a user enters the correct credentials.
 
 3. Enter a valid username or e-mail in the appropiate field
 
-4. Click on the Continua button
+4. Click on the "Continua" button
 
 5. Enter a valid password in the appropiate field
 
-6. Click the "Login" button
+6. Click the "Continua" button
 
 ## Expected Result:
 
